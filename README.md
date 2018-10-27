@@ -5,6 +5,7 @@
 - elements: 化学元素数据
 - flight: 美国的部分航空数据
 - gaokao: 部分高考有关的数据
+- gdppop: 部分城市的GDP和人口数量
 - marath: 马拉松运动员的跑步计时数据
 - jiangsu: 江苏省各个城市的名称、人口和地理经纬度坐标
 - school: 美国部分高校就业薪水
