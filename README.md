@@ -1,5 +1,9 @@
 # DataSet of Laoqi
 
+配套书籍：《跟老齐学Python：数据分析》（各大网店有售）
+
+![](https://github.com/qiwsir/DataAnalysis/blob/master/smallpythonbook3.png)
+
 - appl: 苹果公司的部分股票数据
 - bra: 来自京东商城的关于胸罩的评论数据
 - elements: 化学元素数据
