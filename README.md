@@ -11,6 +11,7 @@
 - school: 美国部分高校就业薪水
 - pm25: 国内各城市PM2.5天数统计
 - USA-university: 美国高校及其同等级的院校
+- usastate: 美国一些州的数据
 - weibo: 从微博上搜索[PYTHON]并爬虫相应的内容
 - winemag: 葡萄酒的有关数据
 
