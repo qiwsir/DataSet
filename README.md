@@ -6,6 +6,7 @@
 
 - appl: 苹果公司的部分股票数据
 - bra: 来自京东商城的关于胸罩的评论数据
+- chinagdp：中国历年gdp增长率
 - elements: 化学元素数据
 - flight: 美国的部分航空数据
 - gaokao: 部分高考有关的数据
